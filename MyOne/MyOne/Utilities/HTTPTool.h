@@ -10,7 +10,7 @@
 #import <AFNetworking/AFNetworking.h>
 
 // 获取首页内容接口地址
-#define URL_GET_HOME_CONTENT @"http://bea.wufazhuce.com/OneForWeb/one/getHp_N"
+#define URL_GET_HOME_CONTENT @"11"
 // 获取文章接口地址
 #define URL_GET_READING_CONTENT @"http://bea.wufazhuce.com/OneForWeb/one/getOneContentInfo"
 // 获取问题接口地址
